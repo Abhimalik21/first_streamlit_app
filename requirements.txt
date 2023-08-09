@@ -1,3 +1,2 @@
 # requirement.txt
--m pip install --upgrade pip
 snowflake-connector-python
